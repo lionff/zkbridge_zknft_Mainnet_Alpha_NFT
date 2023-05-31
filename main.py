@@ -48,7 +48,7 @@ for wallet_number, PRIVATE_KEY in numbered_keys:
 
 if len(wallets_prob) > 0:
     print("Есть проблемки")
-    print(wallets_prob)
+    print(*wallets_prob, sep='\n')
 else:
     print("Закончили без ошибок")
 
