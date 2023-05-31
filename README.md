@@ -1,4 +1,4 @@
-# zkbridge_zknft_Mainnet_Alpha_NFT
+# zkbridge zknft Mainnet Alpha NFT
 FreeMint NFT Zkbridge Mainnet Alpha
 
 # Установка либы
